@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![LinkedIn: Pranjal Pravesh](https://img.shields.io/badge/-yourlinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/pranjal-pravesh/)
+[![LinkedIn: Pranjal Pravesh](https://img.shields.io/badge/-Pranjal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/pranjal-pravesh/)
 [![GitHub Follow](https://img.shields.io/github/followers/yourgithub?label=follow&style=social)](https://github.com/pranjal-pravesh)
 
 ---
@@ -14,30 +14,20 @@
 
 ```python
 me = {
-    pronouns: "he" | "him",
     code: ["Python", "HTML", "CSS", "JavaScript", "React"],
-    tools: ["FastAPI", "Bootstrap", "Jinja2", "LightGBM", "TensorFlow"],
+    tools: ["FastAPI", "Bootstrap", "Jinja2", "TensorFlow"],
     ml: ["regression", "clustering", "decision trees", "CNN", "transformers"],
     timeSeries: ["ARIMA", "RNN", "state-space models"],
-    interests: ["generative AI", "programmatic ads", "LLMs", "NLP", "Reddit analysis"],
+    interests: ["generative AI", "programmatic ads", "LLMs", "NLP"],
     projects: [
-        "Fake news classifier (96% accuracy)",
         "Reddit analysis web app (NLP + LLM)",
         "Tiny LLM (10–50M params on RTX 3060)",
-        "Spaceship Titanic ML challenge"
+        "Speech emotion detection",
+        "Anime Face Generation with DCGAN"
     ],
     leadership: {
         role: "Secretary",
         org: "NSS IIT Delhi",
-        initiatives: ["Project Jyoti", "Scribe Portal", "Sanitation Drive @ Sanjay Van"]
     },
-    entrepreneurship: {
-        founder: "Octahedron",
-        products: [
-            "PAN India Database",
-            "Startup Bundle",
-            "Resell Bundle (40+ digital products)"
-        ]
-    },
-    challenge: "Currently building my own small LLM and expanding analysis features in my Reddit app"
+    challenge: "Building a Reddit analyzer with NLP + LLMs"
 }
