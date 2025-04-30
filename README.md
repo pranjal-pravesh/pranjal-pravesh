@@ -14,8 +14,8 @@
 
 ```python
 me = {
-    code: ["Python", "HTML", "CSS", "JavaScript", "React"],
-    tools: ["FastAPI", "Bootstrap", "Jinja2", "TensorFlow"],
+    code: ["Python", "HTML", "CSS", "JavaScript"],
+    tools: ["FastAPI", "Bootstrap", "Jinja2", "TensorFlow", "React"],
     ml: ["regression", "clustering", "decision trees", "CNN", "transformers"],
     timeSeries: ["ARIMA", "RNN", "state-space models"],
     interests: ["generative AI", "programmatic ads", "LLMs", "NLP"],
