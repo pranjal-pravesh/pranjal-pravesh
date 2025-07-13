@@ -14,20 +14,32 @@
 
 ```python
 me = {
-    code: ["Python", "HTML", "CSS", "JavaScript"],
-    tools: ["FastAPI", "Bootstrap", "Jinja2", "TensorFlow", "React"],
-    ml: ["regression", "clustering", "decision trees", "CNN", "transformers"],
-    timeSeries: ["ARIMA", "RNN", "state-space models"],
-    interests: ["generative AI", "programmatic ads", "LLMs", "NLP"],
+    code: ["Python", "Swift", "Kotlin", "C++", "HTML", "CSS", "JavaScript"],
+    tools: [
+        "PyTorch", "TensorFlow", "FastAPI", "Bootstrap", "Jinja2", "React",
+        "Jetpack Compose", "MLC LLM", "CoreML", "Metal"
+    ],
+    ml: [
+        "transformers", "CNN", "RNN", "GANs", "XGBoost", "decision trees",
+        "regression", "clustering", "anomaly detection", "reinforcement learning",
+        "collaborative filtering", "content-based filtering"
+    ],
+    timeSeries: [
+        "ARIMA", "state-space models", "RNN", "MA", "AR", "ARMA", "PACF"
+    ],
+    interests: [
+        "LLMs", "generative AI", "on-device ML agents", "mobile ML inference",
+        "hardware-aware ML", "quantitative finance", "NLP", "programmatic ads"
+    ],
     projects: [
+        "Proactive voice assistant (always-on, on-device, with context memory)",
         "Reddit analysis web app (NLP + LLM)",
-        "Tiny LLM (10–50M params on RTX 3060)",
-        "Speech emotion detection",
-        "Anime Face Generation with DCGAN"
+        "Qwen3-1.7B adapter-based multi-skill LoRA router",
     ],
     leadership: {
         role: "Secretary",
-        org: "NSS IIT Delhi",
+        org: "NSS IIT Delhi"
     },
-    challenge: "Building a Reddit analyzer with NLP + LLMs"
+    challenge: "Building a proactive, voice-first Reddit analyzer and agent with LLMs, speaker diarization, memory, and multi-modal interface"
 }
+
