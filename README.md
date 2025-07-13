@@ -20,9 +20,12 @@ me = {
         "Jetpack Compose", "MLC LLM", "CoreML", "Metal"
     ],
     ml: [
-        "transformers", "CNN", "RNN", "GANs", "XGBoost", "decision trees",
-        "regression", "clustering", "anomaly detection", "reinforcement learning",
-        "collaborative filtering", "content-based filtering"
+        "Supervised learning (regression, classification)",
+        "Unsupervised learning (clustering, anomaly detection)",
+        "Deep Learning (CNNs, RNNs, Transformers, GANs)",
+        "Reinforcement learning (PPO, RLHF)",
+        "Recommendation systems (collaborative & content-based filtering)",
+        "Model compression & deployment (LoRA, quantization)"
     ],
     timeSeries: [
         "ARIMA", "state-space models", "RNN", "MA", "AR", "ARMA", "PACF"
