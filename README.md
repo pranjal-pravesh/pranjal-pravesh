@@ -1,7 +1,7 @@
 <h2> Hey there, I'm Pranjal Pravesh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://geeky01adarsh.netlify.app/assets/profile1-d123abc2.gif" width="230">
 
-<p><em>Machine Learning Enthusiast | Web Developer | Student at IIT Delhi
+<p><em>AI/ML Engineer | Android, iOS & Web Developer | Student at IIT Delhi
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
